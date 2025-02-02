@@ -1,6 +1,3 @@
-# 農民和士兵正聚集在森林中。
-# 命令農民"To Battle"，並命令苦工"Go Away"！
-
 while True:
     friend = hero.findNearestFriend()
     if friend:
